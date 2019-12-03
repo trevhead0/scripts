@@ -2,7 +2,7 @@
 <html>
 <body>
  <?php
-$servername = serverip;
+$servername = "serverip";
 $username = dbuname;
 $password = upass;
 $dbname = dbnamee;
